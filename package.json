@@ -1,0 +1,24 @@
+{
+  "name": "mrdisguise",
+  "version": "1.0.0",
+  "description": "A disguising tool that can make you disguise your tabs into anything",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build",
+    "watch": "vite build --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yzffkindacrzy/mrdisguise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yzffkindacrzy/mrdisguise/issues"
+  },
+  "homepage": "https://github.com/yzffkindacrzy/mrdisguise#readme",
+  "devDependencies": {
+    "vite": "^4.1.1"
+  }
+}
