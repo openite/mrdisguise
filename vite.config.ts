@@ -6,9 +6,9 @@ export default defineConfig({
             entry: "src/main.ts",
             fileName: "mrdisguise",
             name: "MrDisguise",
-            formats: ["umd"]
+            formats: ["cjs", "umd"]
         },
         outDir: "dist",
-        minify: "esbuild",
+        minify: "terser",
     }
 })
